@@ -147,10 +147,12 @@ nav{
   background: var(--second-color);
 }
 
-#projects-section-head {
-  max-width: 640px;
+#project-section-head {
+  max-width: 680px;
   margin: 0 auto 6rem auto;
   border-bottom: 0.2rem solid var(--white);
+  border-top: 0.2rem solid var(--white);
+  font-size: 4rem;
 }
 
 @media (max-width: 28.75em) {
