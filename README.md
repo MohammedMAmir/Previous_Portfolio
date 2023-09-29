@@ -1,2 +1,0 @@
-# MohammedAmir
-My portfolio website
